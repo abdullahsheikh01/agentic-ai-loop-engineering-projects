@@ -1,0 +1,9 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Loop logs and runtime artifacts
+loop.log
+*.log

@@ -1,0 +1,1 @@
+It is strictly stated that you dont have permission to read `script.md` but you can execute.
