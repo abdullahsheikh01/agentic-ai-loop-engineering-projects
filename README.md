@@ -9,6 +9,7 @@ A portfolio of autonomous **agentic loops** built with [opencode](https://openco
 | Watch Loop | `01-a-watch-loop/` | Launches a long-running script and polls its status via a custom opencode skill (`script-watcher-loop`) | [README](01-a-watch-loop/README.md) |
 | Pass the Test | `02-pass-the-test/` | Fixes bugs in three Python files until the full pytest suite passes, writing a progress report each iteration | [README](02-pass-the-test/README.md) |
 | Morning Brief with Memory | `03-morning-brief-with-memory/` | Researches trending tech news daily, writes an article and five-platform social posts, and appends to a running log | [README](03-morning-brief-with-memory/README.md) |
+| New Project | `06-new-project/` | Template agentic loop that processes a `queue.md` task list one item per iteration until empty | [README](06-new-project/README.md) |
 
 ## Quick Start
 
@@ -44,6 +45,7 @@ loop-engineering-projects/
 ├── 01-a-watch-loop/               # watch-loop experiment
 ├── 02-pass-the-test/              # self-fixing test loop
 ├── 03-morning-brief-with-memory/  # cron-driven daily brief
+├── 06-new-project/                # template task-queue loop
 └── README.md
 ```
 
